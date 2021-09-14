@@ -1,0 +1,13 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: DEB5-193B
+
+ Directorio de C:\testgit\powershell
+
+14/09/2021  13:19    <DIR>          .
+14/09/2021  13:19    <DIR>          ..
+14/09/2021  10:30               144 app.properties
+14/09/2021  10:30             5.912 detail.ps1
+14/09/2021  10:30             1.218 fichero_salida_omnistat_detail.txt
+14/09/2021  13:19                 0 lista.txt
+               4 archivos          7.274 bytes
+               2 dirs  423.400.751.104 bytes libres
